@@ -1,3 +1,10 @@
-.contentt{background: blue;
-
+.box{
+    width: 380px;
+    height: 480px;
+    margin:6% auto;
+    background:gold;
+    position: relative;
+}
+.contents{
+    margin: auto;
 }
