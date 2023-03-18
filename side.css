@@ -15,9 +15,10 @@
 }
 button{
     text-transform: uppercase;
-    border-radius: 10px;
+    border-radius: 1.3em;
     margin: 50px;
     text-decoration: none;
+    background: white;
 }
 a:hover{
     color: blue;
