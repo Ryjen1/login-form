@@ -2,9 +2,30 @@
     width: 380px;
     height: 480px;
     margin:6% auto;
-    background:gold;
     position: relative;
+    border: 10px solid blue;
+    border-radius: 10px;
+    color: grey;
 }
 .contents{
     margin: auto;
+    padding: 100px;
+    padding-bottom: 200px;
+}
+button{
+    text-transform: uppercase;
+    border-radius: 10px;
+    margin: 50px;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+input{
+    padding: 8px;
+    width: 100%;
 }
